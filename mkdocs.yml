@@ -1,0 +1,4 @@
+site_name: Homeroom Wiki
+repo_url: https://github.com/longbow122/homeroom-docs
+theme:
+    name: material
