@@ -52,7 +52,7 @@ markdown_extensions:
 nav: #The top navigaton bar of the wiki page.
   - Home:
     - Home:
-      - :wave: Welcome!: "index.md"
+      - Welcome!: "index.md"
     - Overview:
       - Features: "features.md"  
       - For Teachers: "informationForTeachers.md"
