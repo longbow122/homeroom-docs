@@ -1,6 +1,6 @@
 site_name: Homeroom Wiki
-repo_url: https://github.com/longbow122/homeroom-docs
-repo_name: longbow122/homeroom-docs
+repo_url: https://github.com/longbow122/Homeroom
+repo_name: Homeroom on GitHub
 plugins:
   - search:
       lang: en
@@ -20,3 +20,14 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+markdown_extension:
+  - attr_list
+  - abbr
+  - def_list
+  - footnotes
+  - pymdownx.snippets:
+    auto_append:
+      - includes/abbreviations.md
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
