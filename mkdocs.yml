@@ -25,9 +25,10 @@ markdown_extensions:
   - abbr
   - def_list
   - footnotes
+  - pymdownx.details
   - pymdownx.snippets:
-    auto_append:
-      - includes/abbreviations.md
+      auto_append:
+        - includes/abbreviations.md
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
