@@ -1,3 +1,4 @@
+#This entire yml file was generaterd using Material for MkDocs
 site_name: Homeroom Wiki
 repo_url: https://github.com/longbow122/Homeroom
 repo_name: Homeroom on GitHub
@@ -11,6 +12,7 @@ theme:
     code: PT Mono  
   name: material
   logo: homeroom.png
+  favicon: homeroom.png
   features:
     - navigation.instant
     - navigation.tracking
@@ -37,3 +39,12 @@ nav: #The top navigaton bar of the wiki page.
   - User Documentation: "userDocumentation/userHome.md"
   - Administrator Documentation: "adminDocumentation/adminHome.md"
   - Contributing: "contributors.md"
+extra:
+  generator: false 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/longbow122
+      name: longbow122 on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://uk.linkedin.com/in/dhruvil-patel-072a01233
+      name: Dhruvil Patel on LinkedIn  
