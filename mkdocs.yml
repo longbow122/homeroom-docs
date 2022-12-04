@@ -47,7 +47,6 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav: #The top navigaton bar of the wiki page.
   - Home: "index.md"
-    - Home: "index.md"
     - Features: "features.md"
     - For Teachers: "informationForTeachers.md"
     - For Admins: "informationForAdmins.md"
