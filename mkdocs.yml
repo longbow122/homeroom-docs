@@ -20,7 +20,7 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
-markdown_extension:
+markdown_extensions:
   - attr_list
   - abbr
   - def_list
