@@ -43,8 +43,6 @@ markdown_extensions:
   - pymdownx.details
   - admonition
   - pymdownx.superfences
-  - toc:
-    permalink: true
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
