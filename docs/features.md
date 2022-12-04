@@ -11,7 +11,7 @@ hide:
 ## Cloud-Based
 Never worry about losing a file again with a structured, cloud-based application using [MongoDB](https://www.mongodb.com/cloud/atlas/register). Download Homeroom on any machine, and continue right where you left off.
 
-![Don't waste time sending information to an Admin](mongoDBScreenshot.png){align=left}
+![Don't waste time sending information to an Admin](screenshots/mongoDBScreenshot.png){ align=left }
 
 !!! info "Don't waste time manaully sending information to an Admin."
     Thanks to Homeroom and [MongoDB](https://www.mongodb.com/cloud/atlas/register), you'll never need to worry about sending information to an Admin again. Simply perform your task through Homeroom as standard, and let Homeroom handle the rest.

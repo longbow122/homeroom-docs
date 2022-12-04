@@ -24,6 +24,15 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 markdown_extensions:
   - attr_list
   - abbr
@@ -38,14 +47,13 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav: #The top navigaton bar of the wiki page.
   - Home: "index.md"
-  - User Documentation: "userDocumentation/userHome.md"
-  - Administrator Documentation: "adminDocumentation/adminHome.md"
-  - Contributing: "contributors.md"
-  - Section:
     - Home: "index.md"
     - Features: "features.md"
     - For Teachers: "informationForTeachers.md"
-    - For Admins: "informationForAdmins.md" 
+    - For Admins: "informationForAdmins.md"
+  - User Documentation: "userDocumentation/userHome.md"
+  - Administrator Documentation: "adminDocumentation/adminHome.md"
+  - Contributing: "contributors.md" 
 extra:
   generator: false 
   social:
