@@ -20,10 +20,12 @@ theme:
     - navigation.tabs.sticky
     - navigation.expand
     - navigation.sections
-    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
+    - toc.follow
+    - toc.integrate
+    - 
   palette: 
     - scheme: default
       toggle:
@@ -39,6 +41,8 @@ markdown_extensions:
   - def_list
   - footnotes
   - pymdownx.details
+  - admonition
+  - pymdownx.superfences
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
@@ -47,10 +51,12 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav: #The top navigaton bar of the wiki page.
   - Home:
-    - Home: "index.md"
-    - Features: "features.md"  
-    - For Teachers: "informationForTeachers.md"
-    - For Admins: "informationForAdmins.md"
+    - Home:
+      - :wave: Welcome!: "index.md"
+    - Overview:
+      - Features: "features.md"  
+      - For Teachers: "informationForTeachers.md"
+      - For Admins: "informationForAdmins.md"
   - User Documentation: "userDocumentation/userHome.md"
   - Administrator Documentation: "adminDocumentation/adminHome.md"
   - Contributing: "contributors.md" 

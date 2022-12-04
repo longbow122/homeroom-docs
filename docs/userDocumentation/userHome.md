@@ -2,3 +2,5 @@
 hide:
   - footer
 ---
+
+# User Documentation

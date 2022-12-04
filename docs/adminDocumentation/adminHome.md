@@ -3,3 +3,4 @@ hide:
   - footer
 ---
 
+# Administrator Documentation
