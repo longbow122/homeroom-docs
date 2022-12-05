@@ -8,4 +8,4 @@ Homeroom is an <ins>**free-to-use, open source**</ins> MIS intended for use in B
 
 Please use the sidebar, or the buttons below to visit the page that suits your unique needs the most:
 
-[I'm a Teacher :teacher:](informationForTeachers.md){.md-button .md-button--primary} [I'm an Administrator :fontawesome-solid-code:](informationForAdministrators.md){.md-button .md-button--primary} [I'd like to contribute :raised_hands:](contributors.md){.md-button .md-button--primary}
+[I'm a Teacher :teacher:](informationForTeachers.md){.md-button .md-button--primary} [I'm an Administrator :fontawesome-solid-code:](informationForAdmins.md){.md-button .md-button--primary} [I'd like to contribute :raised_hands:](contributors.md){.md-button .md-button--primary}

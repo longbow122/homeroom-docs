@@ -51,11 +51,11 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav: #The top navigaton bar of the wiki page.
   - Home:
-    - Welcome!: "index.md"
+    - ":wave: Welcome!": "index.md" #Put key in docs to allow for emojis in sidebar
     - Overview:
-      - Features: "features.md"  
-      - For Teachers: "informationForTeachers.md"
-      - For Admins: "informationForAdmins.md"
+      - ":sparkles: Features": "features.md"  
+      - ":pen_ballpoint: For Teachers": "informationForTeachers.md"
+      - ":material-code-braces: For Admins": "informationForAdmins.md"
   - User Documentation: "userDocumentation/userHome.md"
   - Administrator Documentation: "adminDocumentation/adminHome.md"
   - Contributing: "contributors.md" 
