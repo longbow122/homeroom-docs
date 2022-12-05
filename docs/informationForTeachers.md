@@ -10,6 +10,7 @@ Homeroom holds many [features](features.md) that come in handy for schools. This
 
 ## Why Homeroom?
 
+
 ## Advantages
 - **Documentation and Support:**
     * Homeroom features full, and detailed documentation, which is able to support you through every issue you may encounter.
