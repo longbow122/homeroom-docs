@@ -38,11 +38,13 @@ theme:
 markdown_extensions:
   - attr_list
   - abbr
-  - def_list
   - footnotes
   - pymdownx.details
   - admonition
   - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
