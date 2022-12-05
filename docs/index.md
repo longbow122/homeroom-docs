@@ -1,6 +1,7 @@
 ---
 hide:
   - footer
+title: ":wave: Welcome!"
 ---
 
 # :wave: Welcome!
