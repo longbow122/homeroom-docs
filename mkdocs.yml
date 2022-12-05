@@ -50,12 +50,14 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav: #The top navigaton bar of the wiki page.
+# Manaully set the title of each markdown page to set an emote within the sidebar name.
+# Worth noting that only twitter/unicode emotes would be supported. Image assets would likely not work.
   - Home:
-    - "index.md" #Put key in docs to allow for emojis in sidebar
+    - "index.md"
     - Overview:
-      - Features: "features.md"  
-      - For Teachers: "informationForTeachers.md"
-      - For Admins: "informationForAdmins.md"
+      - "features.md"  
+      - "informationForTeachers.md"
+      - "informationForAdmins.md"
   - User Documentation: "userDocumentation/userHome.md"
   - Administrator Documentation: "adminDocumentation/adminHome.md"
   - Contributing: "contributors.md" 

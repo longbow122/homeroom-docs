@@ -1,9 +1,10 @@
 ---
 hide:
   - footer
+title: "✨ Features"  
 ---
 
-#  Features
+#  Feature List
 <ins>**This page is unfinished and only showcases some of our features.</ins>**
 
 **Detailed documentation for each feature can be found in the [User Documentation](userDocumentation/userHome.md) tab.**
