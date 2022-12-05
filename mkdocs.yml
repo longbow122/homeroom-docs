@@ -62,7 +62,8 @@ nav: #The top navigaton bar of the wiki page.
       - "informationForAdmins.md"
   - User Documentation: "userDocumentation/userHome.md"
   - Administrator Documentation: "adminDocumentation/adminHome.md"
-  - Contributing: "contributors.md" 
+  - Contributing: 
+    -"contributors.md" 
 extra:
   generator: false 
   social:
