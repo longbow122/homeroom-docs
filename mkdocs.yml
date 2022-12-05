@@ -60,8 +60,9 @@ nav: #The top navigaton bar of the wiki page.
       - "features.md"  
       - "informationForTeachers.md"
       - "informationForAdmins.md"
-  - User Documentation: "userDocumentation/userHome.md"
-  - Administrator Documentation: "adminDocumentation/adminHome.md"
+  - User Documentation: 
+    - "userDocumentation/userReference.md"
+  - Administrator Documentation: "adminDocumentation/adminReference.md"
   - Contributing: 
     - "contributors.md" 
 extra:

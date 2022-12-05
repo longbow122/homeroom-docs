@@ -19,7 +19,7 @@ Before you suggest a feature, please make sure it does not already exist! Search
 
 Once those have been done, simply [open new suggestion issue request on GitHub :simple-github:](https://github.com/longbow122/Homeroom/issues).
 
-[Make a Suggestion](https://github.com/longbow122/Homeroom/issues){.md-button .md-button--primary}
+[Make a Suggestion :material-lightbulb-on:](https://github.com/longbow122/Homeroom/issues){.md-button .md-button--primary}
 
 ## Translations
 We would love to see this program used by educators all around the globe. Therefore, we would be happy if you could translate GUI text to your language and submit it through a [suggestion issue request](https://github.com/longbow122/Homeroom/issues).
