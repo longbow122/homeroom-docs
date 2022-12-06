@@ -14,6 +14,8 @@ Homeroom can be configured using the following GUI, which will allow you to chan
 
     Homeroom is not a finished project. As such, this feature is very incomplete, and is currently nothing more than a placeholder for more features to come. These will be implementee as soon as possible, but in the mean time, try [contributing your own features.](../contributors.md)
 
+[Go to Homeroom Configuration :material-code-tags:](configureHomeroom.md){.md-button .md-button--primary}
+
 ## Teacher Management
 Teacher Management is used to create, view, delete and edit Teacher information. These Teachers can then be used throughout the application and your institution.
 
@@ -24,3 +26,5 @@ For examples, they could be added to a Class and a Form, and be given guardiansh
 !!! info "Teacher Management"
 
     View, Edit, Add and Delete Teachers fom this menu. Any new information added to this menu should be refreshed when initiating another search.
+
+[Go to Teacher Management :teacher:](teacherManagement.md){.md-button .md-button--primary}

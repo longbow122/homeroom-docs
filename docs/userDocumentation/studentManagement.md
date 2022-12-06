@@ -1,7 +1,7 @@
 ---
 hide:
   - footer
-title: " Student Management"  
+title: "👨‍🎓 Student Management"  
 ---
 
 # Student Management

@@ -1,7 +1,7 @@
 ---
 hide:
   - footer
-title: " Class Management"  
+title: "🏛️ Form Management"  
 ---
 
-# Class Management
+# Form Management

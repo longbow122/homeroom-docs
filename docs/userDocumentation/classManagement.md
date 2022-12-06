@@ -1,7 +1,7 @@
 ---
 hide:
   - footer
-title: " Class Management"  
+title: "👨‍🏫 Class Management"  
 ---
 
 # Class Management

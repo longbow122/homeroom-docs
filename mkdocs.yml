@@ -62,7 +62,13 @@ nav: #The top navigaton bar of the wiki page.
       - "informationForAdmins.md"
   - User Documentation: 
     - "userDocumentation/userReference.md"
-  - Administrator Documentation: "adminDocumentation/adminReference.md"
+    - "userDocumentation/studentManagement.md"
+    - "userDocumentation/classManagement.md"
+    - "userDocumentation/formManagement.md"
+  - Administrator Documentation: 
+    - "adminDocumentation/adminReference.md"
+    - "adminDocumentation/configureHomeroom.md"
+    - "adminDocumentation/teacherManagement.md"
   - Contributing: 
     - "contributors.md" 
 extra:
