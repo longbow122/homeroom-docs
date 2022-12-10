@@ -22,7 +22,7 @@ Left-Click your search result form, to view their information. Depending on the 
 
 ![View Form Information](../screenshots/viewFormUSER.png)
 
-???+ Check Your Permissions!
+???+ "Check Your Permissions!"
 
     If you are a normal sub-user, you will not be able to edit, or delete Form Information. Ensure you check Homeroom's main menu to see your level of permissions, or ask your administrator.
 
