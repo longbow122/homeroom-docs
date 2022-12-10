@@ -28,7 +28,7 @@ Left-Click your search result student, to view their information. Depending on t
 
 ![View Student info as Admin](../screenshots/viewStudent.png)
 
-!!! info ""
+!!! info "Information"
 
     View Student information from both administrative and normal accounts. Note that editing and deletion of data can only be done through an administrative account.
 
@@ -44,13 +44,20 @@ Left-Click a search result, and edit Student information within the menu with ea
     If you are a normal sub-user, you will not be able to edit, or delete Student information. Ensure you check Homeroom's main menu to see your level of permissions, or ask your administrator.
 
 ## Add Student
-Use the Student Management meny to add Student Information as an administrator. Make use of the "Add Student" menu to add student information.
+Use the Student Management menu to add Student Information as an administrator. Make use of the "Add Student" menu to add student information.
 
 ![Add Student Menu](../screenshots/addStudentMenu.png)
+
+!!! warning "Check your Permissions!"
+
+    Only Adminsitrative users are authorised to make use of the "Add Student" button. Only they will be able to use it. Should a standard sub-user make use of this button, you will see the following error.
+
+![Failure!](../screenshots/accessDenied.png)
 
 ???+ info "Add Your Students here!"
 
     Fill in all required fields highlighted in red, and any black, optional fields. Then, click the "Add Student" button to add the Student to Homeroom's database.
+
 
 ## Delete Student
 Use Student Management's "View Student" menu to delete Student Information as an administrator.
