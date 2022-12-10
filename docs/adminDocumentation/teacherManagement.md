@@ -1,7 +1,7 @@
 ---
 hide:
   - footer
-title: " Teacher Management"  
+title: "👨‍🏫 Teacher Management"  
 ---
 
 # Teacher Management
