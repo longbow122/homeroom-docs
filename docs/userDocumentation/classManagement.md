@@ -80,7 +80,7 @@ You are able to take each Student within a Form, and have them all join a Class 
 
 ![Success!](../screenshots/addFormToClassSuccess.png)
 
-# Add Class
+## Add Class
 Use the Class Management menu to add Class information as an administrator. Make use of the "Add Class" menu to add Class information.
 
 ![Add Form](../screenshots/addFormMenu.png)
@@ -97,7 +97,7 @@ Use the Class Management menu to add Class information as an administrator. Make
 
 ![Permission Denied!](../screenshots/accessDenied.png)
 
-# Delete Class
+## Delete Class
 Use Class Management's "View Class" menu to delete Class Information as an administrator.
 
 Left-Click a search result, and use the "Delete Class" button to delete Class Information. You will be asked for confirmation before you do this.
