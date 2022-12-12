@@ -38,6 +38,10 @@ Left-Click a search result, and edit Teacher information within the menu with ea
 
 ![Edit Teacher](../screenshots/editTeacher.png)
 
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Teacher again. Once you open the Teacher again, after making your edits, you should see that your edits have actually applied.
+
 ## Add Teacher
 Use the Teacher Management menu to add Teacher Information as an administrator. Make use of the "Add Teacher" menu to add Teacher information.
 
@@ -48,6 +52,10 @@ Use the Teacher Management menu to add Teacher Information as an administrator. 
     Fill in all required fields highlighted in red, and any block, optional fields. Then, click the "Add Teacher" button to add the Teacher to Homeroom's database.
 
 ![Success](../screenshots/addTeacherSuccess.png)
+
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Teacher again. Once you open the Teacher again, after making your edits, you should see that your edits have actually applied.
 
 ## Delete Teacher
 Use Teacher Management's "View Teacher" menu to delete Teacher Information as an administrator.
@@ -63,3 +71,7 @@ Left-Click a search result, and use the "Delete Teacher" button to delete Teache
 ![Delete Confirmation](../screenshots/deleteTeacherConfirm.png)
 
 ![Delete Success](../screenshots/deleteTeacherSuccess.png)
+
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Teacher again. Once you open the Teacher again, after making your edits, you should see that your edits have actually applied.

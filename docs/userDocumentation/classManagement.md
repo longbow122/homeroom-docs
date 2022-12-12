@@ -45,6 +45,10 @@ Left-Click a search result, and edit Class information within the menu with ease
 
 It is also worth noting that Class Management behaves somewhat differently, in the sense that most of Class Management is handled with different menus. The usage for these is documented below.
 
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Class again. Once you open the Class again, after making your edits, you should see that your edits have actually applied.
+
 ### Add Teacher to Class
 You are able to add a specific Teacher to your Form by clicking the "Add Teacher" button. You can then make use of the "Search and Select Teachers" menu to search for a specific Teacher, and have them take over that Class.
 
@@ -95,6 +99,10 @@ Use the Class Management menu to add Class information as an administrator. Make
 
     Only Administrative users are authorised to make use of the "Add Class" button. Only they will be able to both see, and use it.
 
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Class again. Once you open the Class again, after making your edits, you should see that your edits have actually applied.
+
 ![Permission Denied!](../screenshots/accessDenied.png)
 
 ## Delete Class
@@ -115,3 +123,7 @@ Left-Click a search result, and use the "Delete Class" button to delete Class In
 ???+ danger "Careful!"
 
     Ensure that you delete the right Classes. You will NOT be able to recover any data you delete!
+
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Class again. Once you open the Class again, after making your edits, you should see that your edits have actually applied.

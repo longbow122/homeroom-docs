@@ -43,6 +43,10 @@ Left-Click a search result, and edit Student information within the menu with ea
 
     If you are a normal sub-user, you will not be able to edit, or delete Student information. Ensure you check Homeroom's main menu to see your level of permissions, or ask your administrator.
 
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Student again. Once you open the Student again, after making your edits, you should see that your edits have actually applied.
+
 ## Add Student
 Use the Student Management menu to add Student Information as an administrator. Make use of the "Add Student" menu to add student information.
 
@@ -57,6 +61,10 @@ Use the Student Management menu to add Student Information as an administrator. 
 ???+ info "Add Your Students here!"
 
     Fill in all required fields highlighted in red, and any black, optional fields. Then, click the "Add Student" button to add the Student to Homeroom's database.
+
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Student again. Once you open the Student again, after making your edits, you should see that your edits have actually applied.
 
 
 ## Delete Student
@@ -77,3 +85,7 @@ Left-Click a search result, and use the "Delete Student" button to delete Studen
 ???+ danger "Careful!"
 
     Ensure that you delete the right Students. You will NOT be able to recover any data you delete!
+
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Student again. Once you open the Student again, after making your edits, you should see that your edits have actually applied.

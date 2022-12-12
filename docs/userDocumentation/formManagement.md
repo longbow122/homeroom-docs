@@ -45,6 +45,10 @@ Left-Click a search result, and edit Form information within the menu with ease.
 
 It is worth noting that Form Management behaves somewhat differently, in the sense that most of Form Management is handled with different menus. The usage for these is documented below.
 
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Form again. Once you open the Form again, after making your edits, you should see that your edits have actually applied.
+
 ### Add Teacher to Form
 You are able to add a specific Teacher to your Form by clicking "Add Teacher". You can then make use of the "Search and Select Teachers" menu to search for a specific Teacher, and have them take over that Form Group.
 
@@ -84,6 +88,10 @@ Use the Form Management menu to add Form information as an administrator. Make u
 
 ![Failure!](../screenshots/accessDenied.png)
 
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Form again. Once you open the Form again, after making your edits, you should see that your edits have actually applied.
+
 ## Delete Form
 Use Form Management's "View Form" menu to delete Form Information as an administrator.
 
@@ -102,3 +110,7 @@ Left-Click a search result, and use the "Delete Form" button to delete Form Info
 ???+ danger "Careful!"
 
     Ensure that you delete the right Form Groups. You will NOT be able to recover any data you delete!
+
+!!! danger "This GUI does not refresh!"
+
+    This GUI does not refresh yet. To ensure that your changes can be worked on in the same Homeroom instance, close down your current menu, and search for your Form again. Once you open the Form again, after making your edits, you should see that your edits have actually applied.
