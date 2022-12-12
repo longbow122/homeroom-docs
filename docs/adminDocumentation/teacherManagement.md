@@ -43,7 +43,7 @@ Use the Teacher Management menu to add Teacher Information as an administrator. 
 
 ![Add Teacher](../screenshots/addTeacherMenu.png)
 
-??+ info "Add Your Teachers here!"
+???+ info "Add Your Teachers here!"
 
     Fill in all required fields highlighted in red, and any block, optional fields. Then, click the "Add Teacher" button to add the Teacher to Homeroom's database.
 
